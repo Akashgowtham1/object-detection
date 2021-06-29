@@ -8,8 +8,7 @@ This project was made for detecting 20 different types of object such as "backgr
            "sofa", "train", "tvmonitor" in a live video using the webcam or a pre-recorded video.<br>
 ## Preview
 ![Alt Text](https://github.com/Sid2697/Object-Detection-MobileNet/blob/master/Object_Detection.gif)
-### Better Quality Video
-[![IMAGE ALT TEXT](https://github.com/Sid2697/Object-Detection-MobileNet/blob/master/Thumbnail.png)](https://youtu.be/gcw4lQFYXO0)
+
 
 ## Requirements
 - numpy
