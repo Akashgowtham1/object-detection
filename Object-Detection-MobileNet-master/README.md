@@ -6,8 +6,6 @@ This project was made for detecting 20 different types of object such as "backgr
            "bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
            "dog", "horse", "motorbike", "person", "pottedplant", "sheep",
            "sofa", "train", "tvmonitor" in a live video using the webcam or a pre-recorded video.<br>
-## Preview
-![Alt Text](https://github.com/Sid2697/Object-Detection-MobileNet/blob/master/Object_Detection.gif)
 
 
 ## Requirements
